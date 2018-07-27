@@ -12,9 +12,9 @@ PROJETO FINAL NI	30 dias	Seg 02/07/18	Sex 10/08/18
 
 ENTREGA1 - Kickoff - Qua 04/07/18
 
-ENTREGA2 - Template -	Sex 27/07/18
+ENTREGA2 - Template -	Seg 30/07/18
 
-ENTREGA3 - Testes e Apresentação	- Sex 03/08/18
+ENTREGA3 - Testes e Apresentação	- Seg 06/08/18
 
 ENTREGA4 - GO LIVE	- Sex 10/08/18
 
